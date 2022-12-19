@@ -1,0 +1,21 @@
+p {
+  font-size: 15px;
+  color: blue;
+  font-style: initial;
+}
+h1 {
+  font-style: italic;
+}
+span {
+  font-family: "Times New Roman", Times, serif;
+  font-size: medium;
+}
+h2 {
+  font-size: 40px;
+}
+h3 {
+  font-size: 40px;
+}
+body {
+  background-color: whitesmoke;
+}
